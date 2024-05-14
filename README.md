@@ -1,4 +1,3 @@
-```markdown
 # TextStatX
 
 TextStatX is a command-line text analysis tool developed in C, inspired by UNIX utilities. It provides users with comprehensive statistics about the content of text files, including the frequency of characters, words, and lines, as well as identifying the longest word and line.
